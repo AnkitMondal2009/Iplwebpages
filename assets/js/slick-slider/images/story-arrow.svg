@@ -1,0 +1,23 @@
+<svg width="61" height="192" viewBox="0 0 61 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2777_10360" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="61" height="184">
+<rect width="61" height="184" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_2777_10360)">
+<g filter="url(#filter0_b_2777_10360)">
+<circle r="100" transform="matrix(-1 0 0 1 -40 92)" fill="url(#paint0_linear_2777_10360)"/>
+</g>
+<path d="M30 76L14 92L30 108" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_b_2777_10360" x="-175" y="-43" width="270" height="270" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="17.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2777_10360"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2777_10360" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_2777_10360" x1="-1.04785e-06" y1="94" x2="68.6667" y2="94" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7A00"/>
+<stop offset="1" stop-color="#EF4123"/>
+</linearGradient>
+</defs>
+</svg>
